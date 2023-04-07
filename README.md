@@ -2,8 +2,7 @@
 
 
 
-1.依次在CMD运行：
-
+1.
 ```
 git clone https://github.com/MuiseDestiny/zotero-gpt-helper.git
 cd zotero-gpt-helper
