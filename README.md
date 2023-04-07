@@ -1,2 +1,8 @@
 # zotero-gpt-helper
-配合Zotero GPT插件实现向PDF提问
+
+```
+git clone https://github.com/MuiseDestiny/zotero-gpt-helper.git
+cd zotero-gpt-helper
+pip intstall -r requirements.txt
+python main.py
+```
