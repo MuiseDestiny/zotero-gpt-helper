@@ -2,7 +2,7 @@
 
 
 
-1. 执行
+1. 终端运行
 ```
 git clone https://github.com/MuiseDestiny/zotero-gpt-helper.git
 cd zotero-gpt-helper
