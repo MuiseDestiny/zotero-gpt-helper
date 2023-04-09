@@ -1,0 +1,875 @@
+ 
+Lorraine A. Remer 
+
+
+Laboratory for Atmospheres, NASA Goddard Space Flight Center, Greenbelt, Maryland 
+
+
+function of aerosol optical thickness can address this issue. Ambient urban/industrial aerosol is measured in the mid-Atlantic region of the United States during the summer of 1993 by automatic 
+
+Sun/sky radiometers. The volume size distributions inverted from the measured sky radiance represent the entire column of ambient particles. These data depict an aerosol regime in which accumulation mode particle size and volume increases as optical thickness increasesø A dynamical 
+
+
+direction and to predict the phase function within model uncertainties of data collected in 
+
+
+the limited optical thickness range of 0o0-0.25. 
+
+
+multiangle, polarization instruments have launched or are 
+
+
+capabilities of instruments such as the moderate resol•ution imaging spectroradiometer (MODIS), the multiangle imaging 
+
+
+just a few, will revolutionize our ability to observe global 
+
+
+sensing of the Earth's surface. 
+
+
+not sufficient information available from satellite retrievals to 
+
+invert the necessary integral ecluation [Tanr• et al., 1996]. Instead, we use a "look-up table '• in which an array of aerosol models at various optical thicknesses are used to calculate the upwelling spectral radiances. The observed radiances are 
+
+
+best match gives us the aerosol characteristics that 'kilt" the Copyright 1998 by the American Geophysical Union. 
+
+
+0148-0227/98/98JD-00994509.00 observations. Using the proper aerosol model to calculate the 
+
+
+1997b; Tanr• et al., 1997; Chu et al., 1998]. The retrievals 
+
+
+conditions viewed by the satellite. 
+
+
+Anderson, 1995; Pilinis, 1995; Nemesure et al., 1995]. 
+
+
+optical properties, and the variation in aerosol size, for example, can vary significantly from day to day in the same 
+
+location [Holben et al., 1996]. Despite the problems, several robust aerosol models are currently in use [Shettle and Fenn, 1979; WMO, 1983, 1986; Lenoble and Brogniez, 1984; 
+
+
+account for aerosol variability by linking aerosol properties to relative humidity [Shettle and Fenn, 1979]. The cause and 
+
+
+model is that relative humidity is directly related to the physical processes that control aerosol properties• However, 
+
+because of the nonlinearity of the humidity effect, the use of relative humidity requires simultaneous high-resolution knowledge of both the humidity and the aerosol profiles 
+
+
+13,859 
+
+
+model which links aerosol properties to a more readily satellite-measured variable such as aerosol optical thickness is 
+
+
+variation from clean, dry conditions to polluted, humid conditions with a larger contribution from cloud activity. 
+
+
+automatic radiometers located in urban/industrial pollution to develop a "dynamic" aerosol model parameterized by aerosol 
+
+
+the vertical column. 
+
+
+installed in the mid-Atlantic region of the eastern United 
+
+States seaboard as part of the Sulfates, Clouds and Radiation - Atlantic (SCAR-A)experiment. Data were collected from July to September at five stations. During the summer the eastern 
+
+
+conditions associated with urban/industrial pollution [Husar, et al., 1981; Kaufman etal., 1986; Husar et al.9 1997]. In 
+
+situ measurements of the SCAR-A aerosol and other more recent measurements in the same region show that the aerosol is typically composed of sulfates, salt, and also nitrates and 
+
+
+et al., 1997]. The radiometers measure sky radiance in the Sun's almucantar once per hour in the morning and late 
+
+
+conditions. Cloud conditions are discarded as well. 
+
+
+inverted to achieve aerosol volume distribution [Nakajima et 
+
+
+at 670 nm. Each 5-10 size distributions per sorted class were 
+
+
+deviation of the 5-10 size distributions about the mean curves 
+
+for four selected curves. The deviation from the mean includes both the natural variability of the aerosol and the error in inverting the radiances. There is minimal deviation from the 
+
+mean curve in the radii range 0.10-0.60 gm and larger deviation both at larger radii and at very small radii. The accuracy of the inversion decreases at the small and large 
+
+
+deviation from the mean in these radius ranges. We attempt to correct for this inaccuracy at the small end before using the 
+
+
+the aerosol. 
+
+Four separate modes are identified. The accumulation mode consists of particles with radii r, r < 0.30 gm, stratospheric aerosol resulting from the Mr. Pinatubo eruption consists of 
+
+
+accumulation mode and salt mode was identified from 
+
+
+accumulation mode reveals that not only is the mode 
+
+
+been documented in other data sets [Porter and Clarke, 1997; 
+
+
+urban/industrial aerosol. 
+
+
+was identified from similar almucantar inversions that showed 
+
+
+McCormick et al. [ 1995]. The stratospheric mode resolved i n 
+
+
+described by these studies. The stratospheric aerosol mode remains constant in this data set. The data set spans only 2 months during which the variation of the Pinatubo aerosol was 
+
+
+evolves and then subsides. Modeling the dynamic nature of the stratospheric mode is beyond the scope of this study. 
+
+
+and within the same radius range as the accumulation mode. In 
+
+
+our data during the summer of 1993. We include this mode when discussing or comparing to the 1993 data. We exclude it 
+
+when discussing long-term aerosol characteristics or comparing the model to other years. Excluding background stratospheric aerosol in our model may add to the uncertainty of the model at very low optical thicknesses. 
+
+
+beyond the size limits of the inversion (0.07 gm and 9 gm) the 
+
+
+volume distribution by artificially increasing volume at the size limits of the inversion in order to compensate for the 
+
+
+of the figures. We correct the Nakajima et al., [19839 1986] 
+
+
+can be represented by a single lognormal distribution and by conserving the optical properties of the original inversion 
+
+
+1997]o 
+
+
+• lOOO 
+
+
+0.1 1 10 
+
+
+670 nm ------'- .062 ----- .072 ...... .079 
+
+
+-- -.113 
+
+
+-'' 1•.., 
+
+-- -.184 -- -.199 ..... .221 
+
+
+--'m".407 
+
+
+.591 
+
+Plate 1, Volume size distributions derived from the spectral sky radiance with each curve representing a mean of approximately 10 observations and plotted as a function of particle radius and aerosol optical thickness ('c a) at 670 nm, [after Kaufman and Holben, 1996]. The volume is per cross section of atmosphere and the units are equivalent to 10 -4 cm3/cm 2. 
+
+
+0.100 -- - 
+
+
+0.001 " ' 
+
+
+observations and plotted as error bars from the mean curve. 
+
+
+8 ...... 0.55 * 0.55 'o Sø ---0.67 ß 0.67 
+
+
+'- 5 
+
+0 5 10 15 20 25 30 35 40 scattering angle 0.100. ; ; ; •1 , • • . 
+
+
+Small Accumulation 
+
+
+; ; ; I [ I I I 0.06 0.1 0.2 0.3 radius (gm) 
+
+
+the radiance that corresponds to the original retrieved size 
+
+
+the radiance for the single lognormal distribution from the 
+
+
+original inversion and used as a correction for the size distribution. The RMS error in this match is ~10%. (bottom) 
+
+
+matched single lognormal. 
+
+
+lognormal given by 
+
+
+column, r is the radius, rm is the volume modal radius, and 0 is 
+
+
+the original, corrected volume distribution curve for each 
+
+
+modes is with a number distribution defined as [ (ln(r/rg)) 2] dN = N O exp- . (2) d ln r {J 2• 2c• 2 
+
+
+V o of (1) is related to N O by 
+
+
+discussed below for each mode. 
+
+
+at the low and high ends of optical thickness, it is not well 
+
+
+several physical processes affecting accumulation mode particle size, including gas-to-particle conversion (Jaenicke, 
+
+
+water vapor absorption [Fitzgerald et al., 1982]. The 
+
+
+thickness and acc-2 for high optical thickness. The accumulation mode in the midrange of optical thickness values 
+
+
+data set. The two lognormal fit is the only feasible method to 
+
+
+unacceptably large errors. If the aerosol is a result of two 
+
+
+two mode model is physically accurate. Bimodal accumulation 
+
+
+Table 1. Model Parameters and Standard Deviations Derived From Inversion of Sky Data for Entire Column of Ambient Aerosol.. 
+
+
+Strat 0.43 0.55_+0.035 0.29-•-_0.07 0.0053+0.0016 
+
+
+Coarse 0.67 9.50-Z_4.0 0.94+0.20 0.045_+0.028 Volume (Vo)is in units of volume per atmospheric cross section of gm3/gm 2 which is equivalent to 10 -4 cm3/cm2; r m is the modal radius 
+
+
+number distribution; o is the standard deviation of the natural logarithm of the radius for the volume distribution; rg is derived from r m using rg =exp(-3o2). The modes are accumulation modes of small (acc-1) and 
+
+large (acc-2) particles, stratospheric aerosol (strat), salt (salt), and coarse mode (coarse). fl ('•670)=-0.015+0.51,•670. 1.46•6702+ 1.07x6703; f2(x670)=0.0038-0.086x670+0.90•6702_ 0.71x6703; f3(x670)=-0.0012+0.031 x670 
+
+
+0.1 0.08 
+
+
+0.04 0.02 
+
+
+'o 
+
+
+o 0.06 
+
+0.04 0.02 0.03 
+
+acc-2 salt 0.02 
+
+
+aerosol optical thickness (dotted) for each mean curve of Plate 
+
+
+line) and- 1 standard deviation (dashed line) of each mode. The 
+
+
+depicted later in Fig. 9. 
+
+
+two mode model is less correct. Most likely, a combination of 
+
+
+to the data curves and correct the accumulation mode as 
+
+
+gm) and (• of 0.60. The results for acc-1 generally correspond to Whitbyøs [1978] lognormal fit of a single fine mode. We fit acc-2 to the data curves of Plate ! at the highest optical thickness where acc-2 dominatesø The resulting rm= 0.21 gm 
+
+
+• - .05 ..... ,10 ......... .15 
+
+
+.40 ..... .5t2) 
+
+
+0.1 1 10 
+
+
+rim. 
+
+
+peaked accumulation mode; however, their values of (• are 
+
+
+distribution. 
+
+
+calculated from retrieved volume size distributions one 
+
+standard deviation above and below the mean value• The volume of acc-1 increases with increasing optical thickness until aerosol optical thickness reaches 0.30; then, the acc-1 
+
+
+to exist due to humidity effects• Acc-2 volume exhibits a 
+
+steady increase with minimal variation about the mean as a function of aerosol optical thickness, Figure 2 also shows third-order polynomial fits through the data. The uncertainty 
+
+
+minimal deviation from the mean curves. 
+
+
+model are shown in Figure 3 as a function of aerosol optical thickness at 0.67 gm. Figure 3 is a result of summing the 
+
+
+from the measured data in Plate 1 due to the correction of the 
+
+inversion scheme at the small particle end. 3020 Stratospheric Aerosol The curves of lowest aerosol optical thickness reveal a 
+
+
+a similar inversion technique as used in this study but with a 
+
+handheld instrument, find the best fit to the stratospheric aerosol mode to be rm= 0.5 gm, o= 0.6-0.8 and Vo= 0.018 
+
+
+- - ' 0--=- 1 50 ø -- -- '0= 1 50 ø 
+
+
+• 0.16 
+
+
+_ 0.12 0.10 
+
+0 0.1 0.2 0.3 0.4 0.5 0.6 aerosol optical thickness (670 nm) Figure 4. Phase function at scattering angles of 120 ø (solid 
+
+
+thickness. The curves represent the dynamical model for wavelengths of 440 and 670 rim. The straight horizontal lines 
+
+
+that of Kaufman et al. [ 1994], with a much smaller • and half as much volume of the stratospheric aerosol. Their data were 
+
+collected during 1992, while our data were collected a year later, perhaps after much of the stratospheric aerosol had been removed by gravitational settlement. 
+
+
+0.60 !.tm, •=0.20-0.30) corresponds extremely well to the 
+
+
+accumulation mode in this radius range. However, Deshler ei 
+
+
+._ 
+
+
+o 
+
+o e 0 02 """ / O. ß 
+
+
+ß coarse 
+
+> 0.1 0.2 0.3 0.4 0.5 0.6 aerosol optical thickness (670 nm) 
+
+
+line), stratospheric (dotted line), coarse (solid line) as a 
+
+
+al. [1993] report that at the end of 1992 the smaller mode 
+
+
+aerosol volume and that the trend over 1992 was for the volume in the smaller mode to decrease faster than the volume 
+
+
+may have become insignificant in a volume size distribution. Note that the stratospheric aerosol mode found in the 1993 
+
+
+conditions and is not meant to be representative of stratospheric aerosol, in general. 
+
+
+radius of 1.3 gm with a mean (• of 0.30 with little variation of 
+
+
+gm in the marine environment [Hoppel et al., 1990; Hegg et 
+
+
+variation from the mean. 
+
+
+at their mean value and shown in Table 1. The coarse mode is 
+
+
+expect the larger aerosol to have shorter lifetimes and be more 
+
+
+smaller particles, and uncertainties in the coarse mode model 
+
+
+for both accumulation modes, the stratospheric mode, and the marine salt mode. It is an average between the value for a dry 
+
+
+N O '-- o 0.7 
+
+
+O .- r- 0.4 
+
+._ x (• 0.3 
+
+
+400 ... eric mode 
+
+
+• • =0.60 
+
+a 0 continental 500 600 700 800 900 1000 
+
+
+continental model (solid line with diamonds) which does not 
+
+vary with optical thickness. 
+
+
+0.0035 for the accumulation modes, 0o0 for the stratospheric 
+
+
+The modeFs sensitivity to choice of refractive index will be tested in section 5. The single-scattering albedo resulting from the model given these refractive indices is 0.96-0.97, which agrees with assumptions of Fraser et al. [1984]• remote 
+
+
+Liousse at al. [1996]o 
+
+
+original sky radiance from which it was derive& which is the 
+
+
+independent test of the model, and several of our assumptions• is, if the model also fits the backscattering sky radiance, at 
+
+
+than the radiance < 40ø• It is also more sensitive to the 
+
+
+remote sensing problems and radiative forcingo Figure 7a 
+
+
+plotted with the sky radiance observations as a function of 4. Optical Properties of a Dynamical Model 
+
+
+function on aerosol optical thicknesso The results are shown in Figure 4 where the model phase function at two different 
+
+
+the model with the stratospheric component removed. Also 
+
+
+for the continental model [WMO, 1983, 1986' Lenoble and Brogniez, 1984]. The continental model phase function matches the dynamical model phase function for optical thicknesses 0.10-0.20 but is significantly higher for the lower or higher optical thicknesses. Because the effective radius of the aerosol mixture varies with optical thickness, a static 
+
+
+dynamical model is necessary for a more accurate 
+
+
+thickness at 670 nm ('Ca=0.04 from 1993 data). The stratospheric component continues as a baseline• unchanging 
+
+
+coarse mode in this model (Xa=0.015). The salt mode varies but never accounts for a significant portion of the total aerosol optical thickness. The accumulation modes are the major 
+
+
+thicknesses greater than 0.20. 
+
+
+model is shown in Figure 6. The values plotted are with the stratospheric component removed which is a better representation of long-term conditionsø There •s very little variability in extinction coefficient with optical depths for wavelengths less than 600 nmo We do see the spectral 
+
+
+[WMO, 1983• 1986; Lenoble and Brogniez, !984]. The 
+
+
+dynamical model is needed to represent the variation of 
+
+
+a o . • • s ( ) o .... 
+
+
+• 670 nm •• • o.o? . ................ _ Z•::: ::::gccC .... ::1:::'• ........ 
+
+
+0•1 • n•=0.0035 • ps=O.05 
+
+
+•n =1 •45 n =1.55 
+
+• I .... I s , , , i ......... I .... I .... i .... I ' ' ' ' I 0 0.1 0.2 0.3 0.4 0.5 0.• 0.7 0.8 aerosol optical thickness 
+
+
+. by the aerosol model of Table ! for the wavelengths of 440 and 
+
+
+radiance to the surface reflectance (Os) for the dynamic model 
+
+as well as the continental and urban models of Lenoble and Brogniez [1984]. (b) Sensitivity of the dynamic model to variations in the real part of the refractive index (nr)• (c) 
+
+
+part of the refractive index (ni)o 
+
+
+-1 
+
+
+-1.6 
+
+
+-2 -Sun data, all times 
+
+
+..... continental 
+
+
+thickness calculated from all the SCAR-A Sun data (dashed 
+
+
+line). 
+
+
+wavelengthø The more negative • is, the greater the spectral dependence, the larger the contribution of small particlesø 
+
+
+measurements was derived from size distributions inverted 
+
+
+described in section 2. The model is derived from size 
+
+distributions corrected for small particles. The Sun measurements are an independent, direct measure of extinction by the radiometers. The figure shows that the model, corrected 
+
+
+the aerosol. It shows a rapid increase in spectral dependence, 
+
+
+as optical thickness increases. The leveling off of the 
+
+
+Actual surface reflectance at 670 nm is estimated to be 0.05 to 
+
+
+similar curves representing the continental and urban models 
+
+
+measurements, but we do see very good agreement between the 
+
+
+variations in the refractive index. In these plots the 
+
+
+0.0035, while n r was varied. In Figure 7c, n r was held fixed to 
+
+
+consistent with the observations. The model is much less 
+
+
+particles have in the visible spectrum. 
+
+
+thickness provides aerosol size information. A large spectral 
+
+
+coefficient • defined in the following relationship: 
+
+
+to approximating the wavelength dependence of the optical thickness by a straight line on a log-log plot (Figure 6). In 
+
+
+0.100 ß - O.OLO- _.= 
+
+
+ß - 0.010- 0.100-- 
+
+
+-- -- -0.055 
+
+..... 0.077 '• • • 0.131 ' •",0• •N ---o.183 ' /•..%_ • 0.293 • / ' 
+
+
+1993 
+
+
+..... 0.055 0.088 
+
+
+. 
+
+
+:: W :: ..... 
+
+
+0.1 1 aerosol optical thickness (670 nm) 
+
+
+of 1993, 1994, and 1995. 
+
+
+, 
+
+
+1993 O. 12 0.60 0.51 0.31 10.3 
+
+
+1995 0.13 0.60 .... 6.8 Model 0.11 0.60 0.55 0.29 9.5 
+
+
+1994 
+
+1995 Model r m ace-2 c• ace-2 r m salt c• salt r m coarse 
+
+
+0.21 0.49 1.47 0.15 8.6 0.21 0.45 1.30 0.30 9.5 
+
+
+Model 0.21 0.45 1.30 0.30 9.5 
+
+
+GSFC data. 
+
+
+Data Set 
+
+
+were not included in the derivation of this modelø Therefore 
+
+the GSFC data provide an independent data set in which to test the applicability of the model to more inland sites and its repeatability from year to year. Figure 9 shows the volume 
+
+size distributions retrieved from the GSFC radiometer for the three summers, 1993-1995. These data were sorted and averaged in the same manner as the SCAR-A data set described 
+
+
+[tm is discernible in 1993 but not in the 1994 and 1995 data. By 1994 the Pinatubo stratospheric aerosol had mostly 
+
+
+more coastal sites that make up the bulk of the SCAR-A data 
+
+
+Lognormals were fit to three selected curves of the GSFC 
+
+
+A data set. The three selected curves were the mean curves closest to optical thicknesses of 0.05, 0.25, and 0•40• Only 
+
+•model ,, ,, i:2•GSF c ',, ,, ,, ' ' ' 'knt]• 0'4 i _ X. 0.3 '?' -: •, 0.21 • • • • i • t 
+
+a -. • . : :: %. : ,oo ,40 ,,o - ' -,. '' ' coarse salt 
+
+
+, ,,,,,. 
+
+rO ,.,- 1 • 0.1 
+
+0.01 0 40 80 120 160 0 40 80 120 160 scattering angle scattering angle 
+
+
+year. 
+
+
+• t--.---.--+--•--•--•.--•--- +---•-•t-• , ! model O. 4 I- / -- -- - model no strat . o ß / / ..... GSFC '93 x=0.055 I .'''' /"ø"GSC'94=o-o491 .' 
+
+
+0.2 model 0.4 • -- -- -model no strat 
+
+
+ß - e. - GSFC '94 •=0.23 0.3 ,,• - -e - - GSFC '95 •=0.26 
+
+
+I x670 =0'25 -•--+--t---+--, • I i i • I • t i ---4-.--+--•--• .... model 
+
+
+..... GSFC '95 •=0.40 0.3 
+
+
+100 120 140 160 180 
+
+
+thickness of 0.05, 0.25, and 0.40 with error bars calculated by 
+
+
+function of the static continental model. 
+
+
+parameters are listed in Table 2. Almost all of the parameters 
+
+
+derived from the SCAR-A data set. The salt mode o falls outside the original model uncertainty. 
+
+
+calculated at the upper and lower standard deviations of the 
+
+
+functions except for the salt modes. It is assumed that the 
+
+source of the salt mode is ocean spray; therefore it is not surprising that a more inland station such as GSFC differs from a group of coastal stations in the properties of that particular mode. This comparison suggests caution in applying the salt 
+
+
+However, the salt mode has little influence on the optical properties of the total aerosol in the visible wavelengths. 
+
+
+the combined model phase function with error bars 
+
+
+thicknesses. The corresponding GSFC phase functions are plotted by dots. The largest uncertainty in the model occurs at 
+
+
+important to climate and remote sensing applications. For optical thickness greater than 0.20 the model's uncertainties 
+
+
+thickness was 0.40. 
+
+
+diurnal mean conditions. The SCAR-A data set was collected in 
+
+
+radiometer. The cloud fraction is observed at National Weather 
+
+
+radiometer). The cloud fraction is the fraction of clouds 
+
+observed in the lowest of three observational layers. A significant diurnal signal exists in the optical thickness and cloud fraction data, especially at Atlantic City. 
+
+
+a diurnal bias in the data taken at almucantar times (model 
+
+
+simultaneously with the almucantar measurements (~125 
+
+
+mean conditions. 
+
+
+The main process contributing to the dynamical changes in the 
+
+
+accumulation mode particles. The parametefization by aerosol optical thickness does a reasonable job of capturing the variance of this important process. 
+
+Figure 13 shows the accumulation mode volume-weighted mean radius r v as a function of optical thickness. The 
+
+
+o 0• o • - 
+
+c0 .- 0.2- 0.2- o 0.15- 
+
+
+O 0.05- 
+
+
+2 •1•1•1• •1• 
+
+
+ß s• 0 
+
+
+ß 0 ß = Wallops o --8--Atlantic City 
+
+o ß s; 0 ß ß • 0 
+
+ß 0 - 0.3 0.25- 
+
+
+o •, •, ,, 12, 14, I 10 1 1 16 18 
+
+
+(middle) lowest-altitude cloud fraction, and (bottom) 
+
+precipitable water vapor. The solid circles are data collected at the Wallops station and the open circles are data collected at the Atlantic City NWS station or a radiometer located approximately 25 km from the Atlantic City station. The time 
+
+
+The curves represent a cosine fit with a period of 24 hours. parameter rv is defined as 
+
+dV t2 r--dr q dr (6) rv = l r2dVdr q dr 
+
+
+contribute to the accumulation mode. Thus r v represents the 
+
+
+after correction for small particles. Figure 13 shows r v for the 
+
+
+well as the r v calculated for the GSFC curves of Figure 9 (open 
+
+
+0.2- 
+
+
+0.05 0 
+
+
+•, GSFC 94 
+
+
+-t- + + + +. + + •+.• +e• 
+
+
+:: ::I: =::l ::::I ::=: l::=: l::: :l:= := 
+
+
+accumulation mode (acc-1 plus acc-2) as a function of aerosol 
+
+
+and each of the years in the GSFC database from Fig. 8 (open 
+
+
+the individual size distributions. Parameterization by optical 
+
+
+7. Conclusions 
+
+
+aerosol model that describes the variability of the aerosol 
+
+
+variations is the increase in size of the accumulation mode 
+
+
+thickness is able to describe 60% of the variance in the shift of accumulation mode particles to larger sizes• As the 
+
+
+extinction, the optical thickness will increase, while the backscattering component of the phase function will decreaseo It is still uncertain whether the primary cause of the shift to 
+
+
+unimportant to remote sensing, direct aerosol forcing of climate, and the modeling of aerosol optical properties (except the refractive index). However, understanding the process of 
+
+
+aerosol, and the optical consequences of the aerosol modelø 
+
+The composition of urban/industrial aerosols will vary 
+
+
+aerosols all have a large sulfate component and are 
+
+
+this still needs to be verified. It is the soot component of the 
+
+
+For example, aerosols measured in the eastern United States 
+
+where aerosol loading can be large (Xa670 > 0.4) tend to be "cleaner" (COo~0.95), while aerosols measured over industrially polluted eastern Asia tend to be much more absorbent 
+
+
+explored in this study but should be addressed in future work. 
+
+
+Simply using a static continental model is less accurate. 
+
+
+radii we observed for acc-1, acc-2, salt and coarse [L/ et al., 
+
+
+the AERONET network and supporting our data collection efforts 
+
+
+improved the manuscript. 
