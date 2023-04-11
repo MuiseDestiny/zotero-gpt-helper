@@ -7,6 +7,6 @@
 ```
 git clone https://github.com/MuiseDestiny/zotero-gpt-helper.git
 cd zotero-gpt-helper
-pip intstall -r requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
