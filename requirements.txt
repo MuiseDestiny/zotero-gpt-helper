@@ -1,3 +1,3 @@
 flask
-llama_index
+llama-index
 langchain

@@ -49,6 +49,7 @@ def getRelatedText():
   api = args["api"]
   key = args["key"]
   queryText = args["queryText"]
+  if not queryText: return jsonify(['You should input the question first!'])
   fullText = args["fullText"]
   paragraphs = fullText.split("\n\n")
   lines = f"""
@@ -112,7 +113,7 @@ def getRelatedText():
   return response
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False, port=5000)
 
 
 
