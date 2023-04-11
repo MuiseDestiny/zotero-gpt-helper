@@ -23,6 +23,7 @@ import openai
 parser = SimpleNodeParser()
 app = Flask(__name__)
 
+degbug = True
 # 创建一个文件夹用于存放缓存，相对目录
 cache = "cache"
 if not os.path.exists(cache): os.mkdir(cache)
@@ -90,9 +91,9 @@ def getRelatedText():
     )
     # 保存索引
     index.save_to_disk(json_file)
-    # 保存的PDF全文用于开发者测试使用，你可以注释这段
-    with open(json_file.replace(".json", ".txt"), "w", encoding="utf-8") as f:
-      f.write(args["fullText"])
+    if(degbug):
+      with open(json_file.replace(".json", ".txt"), "w", encoding="utf-8") as f:
+        f.write(args["fullText"])
   else:
     index = GPTSimpleVectorIndex.load_from_disk(json_file)
 
@@ -115,7 +116,7 @@ def getRelatedText():
   return response
 
 if __name__ == '__main__':
-    app.run(debug=False, port=5000)
+    app.run(debug=degbug, port=5000)
 
 
 
