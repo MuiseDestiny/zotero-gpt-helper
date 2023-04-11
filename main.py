@@ -23,12 +23,11 @@ import openai
 parser = SimpleNodeParser()
 app = Flask(__name__)
 
-degbug = True
+degbug = False
 # 创建一个文件夹用于存放缓存，相对目录
 cache = "cache"
 if not os.path.exists(cache): os.mkdir(cache)
 # 密钥前后显示字符个数
-
 def hideText(s, n=6): 
   return s[:n] + (len(s) - n * 2) * "*" + s[-n:]
 
@@ -116,7 +115,7 @@ def getRelatedText():
   return response
 
 if __name__ == '__main__':
-    app.run(debug=degbug, port=5000)
+  app.run(debug=degbug, port=5000)
 
 
 
