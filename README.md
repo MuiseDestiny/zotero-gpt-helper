@@ -2,19 +2,17 @@
 
 > 本项目用于开启一个本地的 `127.0.0.1:5000` 服务，用于 `Zotero GPT` 插件向PDF提问。
 
-1. 终端运行
+此服务无需进行任何配置，api和apiKey从插件获取，只需要在zotero-gpt插件配置好即可  
+
+## 一键运行
+首先下载或克隆本仓库代码，然后  
+* `Windows`用户可以直接双击运行 `start.bat` 文件  
+* `Linux`或`Mac`用户可以直接运行 `start.sh` 文件
+
+## 手动运行
 ```
 git clone https://github.com/MuiseDestiny/zotero-gpt-helper.git
 cd zotero-gpt-helper
-pip intstall -r requirements.txt
-```
-
-2. 创建 `zotero-gpt-helper/OPENAI_API_KEY.txt` 文件，将 `GPT密钥` 填写进去
-
-![image](https://user-images.githubusercontent.com/51939531/230593749-4a78e859-620f-4257-ad51-5cfe18fe1411.png)
-
-3. 运行main.py
-
-```
+pip install -r requirements.txt
 python main.py
 ```
