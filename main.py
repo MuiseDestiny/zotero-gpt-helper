@@ -74,7 +74,7 @@ def getRelatedText():
         llm=ChatOpenAI(
           temperature=0,
           model_name="text-embedding-ada-002",
-          openai_api_key=os.environ["OPENAI_API_KEY"],
+          openai_api_key=secretKey,
           max_tokens=512
         )
     )
@@ -96,7 +96,9 @@ def getRelatedText():
     index = GPTSimpleVectorIndex.load_from_disk(json_file)
 
   llm_predictor = LLMPredictor(llm=OpenAIChat(
-      temperature=0, model_name="text-embedding-ada-002"))
+      temperature=0, 
+      model_name="text-embedding-ada-002"),
+  )
   prompt_helper = PromptHelper(
       max_input_size=max_input_size, num_output=num_output, max_chunk_overlap=max_chunk_overlap, chunk_size_limit=chunk_size_limit)
   service_context = ServiceContext.from_defaults(
@@ -113,9 +115,3 @@ def getRelatedText():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
-
-
-
