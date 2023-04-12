@@ -50,7 +50,12 @@ def getRelatedText():
   api = args["api"]
   key = args["key"]
   queryText = args["queryText"]
-  if not queryText: return jsonify(['You should input the question first!'])
+  if not queryText: 
+    tip = 'You should input the question first!'
+    print(tip)
+    print("Fail")
+    print(sep)
+    return jsonify([tip])
   fullText = args["fullText"]
   paragraphs = fullText.split("\n\n")
   lines = f"""
