@@ -32,13 +32,14 @@ def hideText(s, n=6):
   return s[:n] + (len(s) - n * 2) * "*" + s[-n:]
 
 # 分隔符
-sep = "##########################################"
+sep = "——————————————————————————————————————————————"
 
 # 设置
 max_input_size = 4096
 chunk_size_limit = 500
 max_chunk_overlap = 20
 num_output = 256
+similarity_top_k = 20
 
 @app.route('/getRelatedText', methods=['POST'])
 def getRelatedText():
@@ -104,14 +105,18 @@ def getRelatedText():
       max_input_size=max_input_size, num_output=num_output, max_chunk_overlap=max_chunk_overlap, chunk_size_limit=chunk_size_limit)
   service_context = ServiceContext.from_defaults(
       llm_predictor=llm_predictor, prompt_helper=prompt_helper)
+  
   query_object = GPTVectorStoreIndexQuery(index.index_struct, service_context=service_context,
-                                          similarity_top_k=20, vector_store=index._vector_store, docstore=index._docstore)
+                                          similarity_top_k=similarity_top_k, vector_store=index._vector_store, docstore=index._docstore)
   query_bundle = QueryBundle(args["queryText"])
   nodes = query_object.retrieve(query_bundle)
-  print("return nodes", len(nodes))
+  print(f"retrieve node number: {len(nodes)}")
+  # 目的是去除部分很短的单独成段的句子，对于GPT输入是无意义的
   texts = sorted([n.node.text for n in nodes], key=lambda x: len(x), reverse=True)
+  print(f"return text number: {len(nodes)}")
   response = jsonify(texts[:5])
-  print(response)
+  print("Success")
+  print(sep)
   return response
 
 if __name__ == '__main__':
