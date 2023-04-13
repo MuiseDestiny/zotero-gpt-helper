@@ -16,3 +16,7 @@ cd zotero-gpt-helper
 pip install -r requirements.txt
 python main.py
 ```
+
+## 其他参考教程
+
+https://mp.weixin.qq.com/s/Lmw-q9ZbZPrQGfgM5UM67w
